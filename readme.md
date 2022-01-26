@@ -1,7 +1,11 @@
-## ComputationalGeometry
+## trying to visualize block and chain architecture and deploy using flask 
 
->LATEST : 
-## * Vectors in three js 
+## visualizing the chain with networkx  
 
-using three js to visualize linear algebra etc (WIP), drag and drop vectors 
-<img src="https://github.com/deeprajbasu/ComputationalGeometry/blob/main/using3Js/vec3.gif" width="65%" align='left'>
+>getting started with visualizing arch
+<img src="https://github.com/deeprajbasu/blockChain/blob/main/movie.gif" width="65%" align='left'>
+
+
+##showing network growth of dag with multiple back chain links on each node
+
+<img src="https://github.com/deeprajbasu/blockChain/blob/main/movie2.gif" width="65%" align='left'>
