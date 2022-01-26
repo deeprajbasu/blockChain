@@ -2,9 +2,6 @@
 
 ## visualizing the chain with networkx  
 
->getting started with visualizing arch
-<img src="https://github.com/deeprajbasu/blockChain/blob/main/movie.gif" width="65%" align='left'>
-
 
 ##showing network growth of dag with multiple back chain links on each node
 
